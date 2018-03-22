@@ -1,9 +1,5 @@
 # Linux-UNIX-Command-Line-Interface
-Copy Materi
-
-% Linux/UNIX Command Line Interface
-% Auriza Akbar
-% 2015
+# Copy Materi from Auriza Akbar 2015
 
 # Perintah Dasar
 
